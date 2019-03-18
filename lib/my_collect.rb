@@ -7,6 +7,7 @@ def my_collect(array)
   yield array[x]
   
   x += 1
+  
 
  end
   
