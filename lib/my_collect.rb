@@ -10,6 +10,6 @@ def my_collect(array)
   
 
  end
-  
+  capital_elements
 end
 
