@@ -4,7 +4,7 @@ def my_collect(array)
   capital_elements = []
   while x < array.length
   
-  yield array[x]
+ capital_elements << yield array[x]
   
   x += 1
   
